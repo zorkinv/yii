@@ -1,0 +1,1 @@
+mklink C:\Windows\php.ini E:\server\php\php.ini
